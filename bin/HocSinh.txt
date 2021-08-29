@@ -1,0 +1,5 @@
+Lan # 1997 # Ha Noi # 34 Nguyen Trai # 9 # 7 # 8
+Mii # 1997 # Da Nang # 27 Duong Dinh Nghe # 8 # 7 # 6
+Tam # 1996 # HCM # 02 Hai Phong # 5 # 5 # 6
+Hai # 1996 # Hai Phong # 45 Le Duan # 9 # 9 # 10
+Nga # 1997 # Vung Tau # 23 Tran Quoc Toan # 3 # 4 # 5
